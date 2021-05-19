@@ -1,4 +1,4 @@
-package PracticePracticePractice;
+package practicepracticepractice;
 
 public class LearnMethod {
 
